@@ -1,0 +1,21 @@
+# Credentials
+FindLyrics/config.properties
+
+# Build output
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+.mvn/timing.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+
